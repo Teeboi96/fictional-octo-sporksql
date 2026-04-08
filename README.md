@@ -50,3 +50,7 @@ Built a foundation for future ML-based sentiment modeling.
 Outcome:
 
 The project reveals valuable insights about sentiment distribution, labeling consistency, and writing patterns — and prepares the dataset for future machine learning work.
+
+## Detailed Case Study
+
+https://paint-chamomile-3e2.notion.site/IMDb-Movie-Review-Analysis-SQL-Python-33b5e986a8e280438292db40cf1d4e10?source=copy_link
